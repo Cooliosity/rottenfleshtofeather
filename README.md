@@ -1,8 +1,7 @@
-# Fabric Example Mod
+# Rotten Flesh to Feather
 
-## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This is a Minecraft Fabric mod that allows the player to obtain feather by smelting rotten flesh in a furnace.
 
 ## License
 
